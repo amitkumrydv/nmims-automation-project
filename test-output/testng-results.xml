@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-07T17:32:37 IST" name="Default suite" finished-at="2023-10-07T17:32:49 IST" duration-ms="11822">
+    <groups>
+    </groups>
+    <test started-at="2023-10-07T17:32:37 IST" name="Default test" finished-at="2023-10-07T17:32:49 IST" duration-ms="11822">
+      <class name="com.nmims.testCases.TC_001LoginPage">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.nmims.testCases.TC_001LoginPage@5f049ea1]" started-at="2023-10-07T17:32:37 IST" name="setup" finished-at="2023-10-07T17:32:39 IST" duration-ms="2178" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:1, instance:com.nmims.testCases.TC_001LoginPage@5f049ea1]" started-at="2023-10-07T17:32:39 IST" name="loginTest" finished-at="2023-10-07T17:32:49 IST" duration-ms="9174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nmims.testCases.TC_001LoginPage@5f049ea1]" started-at="2023-10-07T17:32:49 IST" name="tearDown" finished-at="2023-10-07T17:32:49 IST" duration-ms="431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nmims.testCases.TC_001LoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
